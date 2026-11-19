@@ -1,0 +1,10 @@
+{
+  "description": "Connect with others through high-quality video calls directly in your browser. Enable seamless face-to-face communication for personal and professional conversations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
